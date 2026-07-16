@@ -10,7 +10,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Pré-requisitos](#-pré-requisitos)
 - [Como Usar](#-como-usar)
-- [Configuração no VS Code](#-Configurar-no-VS-Code)
+- [Configuração no VS Code](#-configuração-no-vs-code)
 - [Performance Esperada](#-performance-esperada)
 - [Solução de Problemas](#-solução-de-problemas)
 - [Contribuindo](#-contribuindo)
@@ -164,4 +164,4 @@ Distribuído sob a licença **MIT**. Veja [LICENSE](LICENSE) para mais informaç
 
 Feito com ❤️ por [tonychagas](https://github.com/tonychagas)
 
-⭐ Se este projeto te ajudou, considere dar uma estrela no GitHub!
+⭐ Se este projeto te ajudou, considere dar uma estrela no GitHub
